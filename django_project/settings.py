@@ -38,11 +38,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'topicslearned',
+    'CustomUser',
     'rest_framework',
     'corsheaders'
 ]
 
-AUTH_USER_MODEL = 'topicslearned.CustomUser'
+AUTH_USER_MODEL = 'CustomUser.CustomUser'
 
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
