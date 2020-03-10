@@ -1,0 +1,30 @@
+[
+    {
+      "model": "topicslearned.Topic",
+      "id": 1,
+      "fields": {
+        "owner": "user1@camilla.com"
+      }
+    },
+    {
+      "model": "topicslearned.Topic",
+      "id": 2,
+      "fields": {
+        "owner": "user2@camilla.com"
+      }
+    },
+    {
+      "model": "topicslearned.Topic",
+      "id": 3,
+      "fields": {
+        "owner": "user3@camilla.com"
+      }
+    },
+    {
+      "model": "topicslearned.Topic",
+      "id": 4,
+      "fields": {
+        "owner": "user3@camilla.com"
+      }
+    }
+  ]
