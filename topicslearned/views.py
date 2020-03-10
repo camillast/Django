@@ -7,7 +7,7 @@ class TopicsListView(ListCreateAPIView):
     serializer_class = TopicsSerializer
 
     def get_queryset(self):
-        return Topics.objects.all().select_related('owner')
+        return Topics.objects.all()
 
 
 """ class TopicsCreateView(CreateAPIView):
