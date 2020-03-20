@@ -1,0 +1,42 @@
+[
+    {
+      "model": "topicslearned.Topics",
+      "id": 1,
+      "fields": {
+        "owner": 1,
+        "title": "title1",
+        "content": "some random content",
+        "pub_date": "2020-01-01"
+      }
+    },
+    {
+      "model": "topicslearned.Topics",
+      "id": 2,
+      "fields": {
+        "owner": 2,
+        "title": "title2",
+        "content": "some random content",
+        "pub_date": "2020-01-01"
+      }
+    },
+    {
+      "model": "topicslearned.Topics",
+      "id": 3,
+      "fields": {
+        "owner": 3,
+        "title": "title3",
+        "content": "some random content",
+        "pub_date": "2020-01-01"
+      }
+    },
+    {
+      "model": "topicslearned.Topics",
+      "id": 4,
+      "fields": {
+        "owner": 4,
+        "title": "title4",
+        "content": "some random content",
+        "pub_date": "2020-01-01"
+      }
+    }
+  ]
