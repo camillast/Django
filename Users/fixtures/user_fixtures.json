@@ -1,0 +1,30 @@
+[
+    {
+      "model": "Users.CustomUser",
+      "id": 1,
+      "fields": {
+        "email": "user1@camilla.com"
+      }
+    },
+    {
+      "model": "Users.CustomUser",
+      "id": 2,
+      "fields": {
+        "email": "user2@camilla.com"
+      }
+    },
+    {
+      "model": "Users.CustomUser",
+      "id": 3,
+      "fields": {
+        "email": "user3@camilla.com"
+      }
+    },
+    {
+      "model": "Users.CustomUser",
+      "id": 4,
+      "fields": {
+        "email": "user4@camilla.com"
+      }
+    }
+  ]
